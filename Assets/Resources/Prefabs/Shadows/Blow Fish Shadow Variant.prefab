@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4557254362680705171
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 168208137259015463, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: m_Name
+      value: Blow Fish Shadow Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 168208137259015480, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 168208137259015480, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 168208137259015480, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 168208137259015480, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 168208137259015480, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 168208137259015480, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 168208137259015480, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 168208137259015480, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 168208137259015480, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 168208137259015480, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 168208137259015480, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2247271990931871287, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: m_Radius
+      value: 1.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 2247271991808118558, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -855841708, guid: 8e279cb9be5a23f459b1d24fcb55bcc1, type: 3}
+    - target: {fileID: 3595193520905996672, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: shadowFish
+      value: 
+      objectReference: {fileID: 8856161149865305308, guid: 0927fa54d7a41e0448fb101d6906526e, type: 3}
+    - target: {fileID: 3595193520905996672, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: shadowSpeed.maxVal
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 3595193520905996672, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: shadowSpeed.minVal
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 3595193520905996672, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: containedFish.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3595193520905996672, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: containedFish.Array.data[0]
+      value: 
+      objectReference: {fileID: 8856161149865305308, guid: 0927fa54d7a41e0448fb101d6906526e, type: 3}
+    - target: {fileID: 3595193520905996672, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: containedFish.Array.data[1]
+      value: 
+      objectReference: {fileID: 7795767884725027714, guid: f2bd9898772eb5d40bfb6e01960eafa0, type: 3}
+    - target: {fileID: 3595193520905996672, guid: 610be588c615310498380a9f761659fd, type: 3}
+      propertyPath: containedFish.Array.data[2]
+      value: 
+      objectReference: {fileID: 2863512910162857266, guid: db09adcd6fb9b6241b229d35781cda68, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 610be588c615310498380a9f761659fd, type: 3}

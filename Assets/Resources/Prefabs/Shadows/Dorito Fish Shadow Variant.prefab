@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5480308857940279535
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1070220393313044755, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: shadowFish
+      value: 
+      objectReference: {fileID: 592425882519341857, guid: 545655ee18b9e184d8a3249d8dc06134, type: 3}
+    - target: {fileID: 1070220393313044755, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: shadowSpeed.maxVal
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 1070220393313044755, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: shadowSpeed.minVal
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1070220393313044755, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: containedFish.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1070220393313044755, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: containedFish.Array.data[0]
+      value: 
+      objectReference: {fileID: 592425882519341857, guid: 545655ee18b9e184d8a3249d8dc06134, type: 3}
+    - target: {fileID: 1070220393313044755, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: containedFish.Array.data[1]
+      value: 
+      objectReference: {fileID: 4297920256230876813, guid: 5393c8389076b70418aff789077d6c4a, type: 3}
+    - target: {fileID: 1070220393313044755, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: containedFish.Array.data[2]
+      value: 
+      objectReference: {fileID: 7795767884725027714, guid: f2bd9898772eb5d40bfb6e01960eafa0, type: 3}
+    - target: {fileID: 1070220393313044755, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: containedFish.Array.data[3]
+      value: 
+      objectReference: {fileID: 5142457393075865343, guid: f24d0f2c9839c914984812ee1f99622c, type: 3}
+    - target: {fileID: 2310759246003902116, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: m_Radius
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2310759247283392397, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 807945888, guid: 8e279cb9be5a23f459b1d24fcb55bcc1, type: 3}
+    - target: {fileID: 4425638593587420587, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4425638593587420587, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4425638593587420587, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4425638593587420587, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4425638593587420587, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4425638593587420587, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4425638593587420587, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4425638593587420587, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4425638593587420587, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4425638593587420587, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4425638593587420587, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4425638593587420596, guid: 25d71296dd14cae458679a05c532f42b, type: 3}
+      propertyPath: m_Name
+      value: Dorito Fish Shadow Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 25d71296dd14cae458679a05c532f42b, type: 3}

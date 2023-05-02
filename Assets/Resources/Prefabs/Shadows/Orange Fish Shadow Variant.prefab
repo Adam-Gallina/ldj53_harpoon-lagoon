@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8933653301469021916
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5659876403886337466, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -260513198, guid: 8e279cb9be5a23f459b1d24fcb55bcc1, type: 3}
+    - target: {fileID: 5659876404754855059, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: m_Radius
+      value: 1.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048785144734400387, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: m_Name
+      value: Orange Fish Shadow Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048785144734400412, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048785144734400412, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048785144734400412, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048785144734400412, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048785144734400412, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048785144734400412, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048785144734400412, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048785144734400412, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048785144734400412, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048785144734400412, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048785144734400412, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6935740340859677476, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: shadowFish
+      value: 
+      objectReference: {fileID: 1596273482121491781, guid: 5f8f2d34a3c11cb47b6da09869b72975, type: 3}
+    - target: {fileID: 6935740340859677476, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: shadowSpeed.maxVal
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 6935740340859677476, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: shadowSpeed.minVal
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6935740340859677476, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: containedFish.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6935740340859677476, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: containedFish.Array.data[0]
+      value: 
+      objectReference: {fileID: 1596273482121491781, guid: 5f8f2d34a3c11cb47b6da09869b72975, type: 3}
+    - target: {fileID: 6935740340859677476, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
+      propertyPath: containedFish.Array.data[2]
+      value: 
+      objectReference: {fileID: 6023048779589364419, guid: 0b3be2d8dc7214648b42594395ed084f, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5e8699db7e72def44952ea768a24002a, type: 3}
